@@ -26,4 +26,11 @@ images/*.jpeg
 images/*.png
 images/*.gif
 images/*.bmp
+images/*.webp
 !images/.gitkeep
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
